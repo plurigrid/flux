@@ -1,6 +1,6 @@
 <!-- Title -->
 
-# 🧬 LangChain UI
+# 🌐 open game
 
 The no-code open source chat-ai toolkit built on top of [LangChain](https://github.com/hwchase17/langchain).
 
@@ -66,12 +66,12 @@ We have migrated all agent functionality from LangChain Typescript to LangChain 
 
 ### Installation
 
-1. Setup the (Langchain UI API)[https://github.com/homanp/langchain-ui]
+1. Setup the (plurigrid ui)[https://github.com/plurigrid/ui]
 
 1. Clone the repo into a public GitHub repository (or fork https://github.com/homanp/langchain-ui/fork). If you plan to distribute the code, keep the source code public.
 
    ```sh
-   git clone https://github.com/homanp/langchain-ui.git
+   git clone https://github.com/plurigrid/ui.git
    ```
 
 1. Go to the project folder
