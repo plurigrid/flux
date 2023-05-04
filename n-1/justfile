@@ -1,4 +1,4 @@
-play:
+play: shell
     npm run dev
 
 docker:
